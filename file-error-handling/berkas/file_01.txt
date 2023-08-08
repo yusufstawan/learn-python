@@ -1,0 +1,2 @@
+Pada kesempatan kali ini kita akan mencoba untuk membaca file teks. 
+Pembacaan menggunakan bahasa pemograman python
